@@ -1,48 +1,177 @@
-<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg">
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="560">
-    <stop stop-color="#06101A"/>
-    <stop offset=".55" stop-color="#5EE3C4" stop-opacity=".28"/>
-    <stop offset="1" stop-color="#07121B"/>
-  </linearGradient>
-  <linearGradient id="a" x1="140" y1="70" x2="1040" y2="490">
-    <stop stop-color="#5EE3C4"/>
-    <stop offset="1" stop-color="#5FB7FF"/>
-  </linearGradient>
-  <filter id="g" x="-40%" y="-40%" width="180%" height="180%">
-    <feGaussianBlur stdDeviation="4" result="b"/>
-    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-  </filter>
-</defs>
-<rect width="1200" height="560" rx="30" fill="url(#bg)"/>
-<rect x="34" y="34" width="1132" height="492" rx="22" fill="#08131E" fill-opacity=".84" stroke="url(#a)" stroke-width="2"/>
-<g opacity=".22" stroke="#5EE3C4">
-  <path d="M0 96H180L230 146H340"/>
-  <path d="M1200 455H1020L970 405H860"/>
-</g>
-<text x="84" y="100" font-family="JetBrains Mono,monospace" font-size="15" letter-spacing="4" fill="#5FB7FF">FEATURED SYSTEM</text>
-<text x="84" y="176" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="60" font-weight="900" fill="#F2FBFF">HireEngine</text>
-<text x="84" y="218" font-family="JetBrains Mono,monospace" font-size="19" fill="#9FC7D1">Scalable Job Aggregation & Alert Backend</text>
+<svg width="1200" height="640" viewBox="0 0 1200 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgHire" x1="0" y1="0" x2="1200" y2="640">
+      <stop stop-color="#120D0D"/>
+      <stop offset="0.54" stop-color="#211414"/>
+      <stop offset="1" stop-color="#100D0E"/>
+    </linearGradient>
 
-<rect x="84" y="268" width="470" height="162" rx="16" fill="#0B1D29" stroke="#21475C"/>
-<rect x="586" y="268" width="530" height="162" rx="16" fill="#0B1D29" stroke="#21475C"/>
+    <linearGradient id="accentHire" x1="60" y1="70" x2="1140" y2="580">
+      <stop stop-color="#C4785E"/>
+      <stop offset="0.52" stop-color="#9B6657"/>
+      <stop offset="1" stop-color="#D19A78"/>
+    </linearGradient>
 
-<text x="110" y="305" font-family="JetBrains Mono,monospace" font-size="13" letter-spacing="2" fill="#5FB7FF">ENGINEERING METRICS</text>
-<text x="110" y="356" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="800" fill="#F2FBFF">60+</text>
-<text x="330" y="356" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="800" fill="#F2FBFF">Hourly</text>
-<text x="110" y="388" font-family="JetBrains Mono,monospace" font-size="13" fill="#7895A0">skills in matching engine</text>
-<text x="330" y="388" font-family="JetBrains Mono,monospace" font-size="13" fill="#7895A0">automated scheduling</text>
+    <pattern id="gridHire" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" stroke="#392424" stroke-width="1" opacity="0.22"/>
+    </pattern>
+  </defs>
 
-<text x="612" y="305" font-family="JetBrains Mono,monospace" font-size="13" letter-spacing="2" fill="#5FB7FF">SYSTEM FLOW</text>
-<g font-family="JetBrains Mono,monospace" font-size="16" font-weight="700" fill="#DDF6FA">
-  <rect x="612" y="330" width="108" height="48" rx="10" fill="#102939" stroke="#5EE3C4"/><text x="666" y="360" text-anchor="middle">INPUT</text>
-  <rect x="748" y="330" width="108" height="48" rx="10" fill="#102939" stroke="#5EE3C4"/><text x="802" y="360" text-anchor="middle">PROCESS</text>
-  <rect x="884" y="330" width="108" height="48" rx="10" fill="#102939" stroke="#5EE3C4"/><text x="938" y="360" text-anchor="middle">INTELLIGENCE</text>
-  <rect x="1020" y="330" width="70" height="48" rx="10" fill="#102939" stroke="#5EE3C4"/><text x="1055" y="360" text-anchor="middle">SHIP</text>
-</g>
-<g stroke="#5FB7FF" stroke-width="2">
-  <path d="M720 354H748"/><path d="M856 354H884"/><path d="M992 354H1020"/>
-</g>
-<text x="84" y="488" font-family="JetBrains Mono,monospace" font-size="13" fill="#6E8790">DESIGNED • BUILT • MEASURED • ITERATED</text>
-<circle cx="1080" cy="92" r="8" fill="#5FB7FF" filter="url(#g)"><animate attributeName="r" values="6;10;6" dur="2.2s" repeatCount="indefinite"/></circle>
+  <rect width="1200" height="640" rx="28" fill="url(#bgHire)"/>
+  <rect width="1200" height="640" rx="28" fill="url(#gridHire)"/>
+
+  <rect x="32" y="32" width="1136" height="576" rx="22"
+        fill="#160F10" fill-opacity="0.94"
+        stroke="url(#accentHire)" stroke-width="2"/>
+
+  <text x="78" y="88"
+        font-family="JetBrains Mono,Consolas,monospace"
+        font-size="15" font-weight="700" letter-spacing="4"
+        fill="#D19A78">
+    BACKEND AUTOMATION // ARCHITECTURE
+  </text>
+
+  <text x="78" y="158"
+        font-family="Inter,Segoe UI,Arial,sans-serif"
+        font-size="58" font-weight="800"
+        fill="#FFF3EE">
+    HireEngine
+  </text>
+
+  <text x="78" y="198"
+        font-family="JetBrains Mono,Consolas,monospace"
+        font-size="18" fill="#CDB2A8">
+    Automated Job Aggregation &amp; Alert System
+  </text>
+
+  <!-- SECTION LABEL -->
+  <text x="78" y="244"
+        font-family="JetBrains Mono,Consolas,monospace"
+        font-size="12" font-weight="700" letter-spacing="2"
+        fill="#C98770">
+    EXECUTION PIPELINE
+  </text>
+
+  <!-- FLOW BOXES -->
+  <g font-family="JetBrains Mono,Consolas,monospace" text-anchor="middle">
+    <rect x="62" y="270" width="142" height="96" rx="14" fill="#251819" stroke="#8D574A"/>
+    <text x="133" y="304" font-size="12" font-weight="700" fill="#FFF4EF">JOB SOURCE</text>
+    <text x="133" y="327" font-size="10" fill="#BDA39A">Remotive API</text>
+    <text x="133" y="346" font-size="9" fill="#937B74">external listings</text>
+
+    <rect x="232" y="270" width="142" height="96" rx="14" fill="#251819" stroke="#A46351"/>
+    <text x="303" y="304" font-size="12" font-weight="700" fill="#FFF4EF">SCRAPER</text>
+    <text x="303" y="327" font-size="10" fill="#BDA39A">Requests</text>
+    <text x="303" y="346" font-size="9" fill="#937B74">parse + ingest</text>
+
+    <rect x="402" y="270" width="142" height="96" rx="14" fill="#251819" stroke="#A46351"/>
+    <text x="473" y="304" font-size="12" font-weight="700" fill="#FFF4EF">DATABASE</text>
+    <text x="473" y="327" font-size="10" fill="#BDA39A">SQLAlchemy ORM</text>
+    <text x="473" y="346" font-size="9" fill="#937B74">deduplicated storage</text>
+
+    <rect x="572" y="270" width="142" height="96" rx="14" fill="#251819" stroke="#B57158"/>
+    <text x="643" y="304" font-size="12" font-weight="700" fill="#FFF4EF">MATCHING</text>
+    <text x="643" y="327" font-size="10" fill="#BDA39A">skill filters</text>
+    <text x="643" y="346" font-size="9" fill="#937B74">relevant jobs</text>
+
+    <rect x="742" y="270" width="142" height="96" rx="14" fill="#251819" stroke="#B57158"/>
+    <text x="813" y="304" font-size="12" font-weight="700" fill="#FFF4EF">SCHEDULER</text>
+    <text x="813" y="327" font-size="10" fill="#BDA39A">APScheduler</text>
+    <text x="813" y="346" font-size="9" fill="#937B74">async intervals</text>
+
+    <rect x="912" y="270" width="142" height="96" rx="14" fill="#251819" stroke="#C07D60"/>
+    <text x="983" y="304" font-size="12" font-weight="700" fill="#FFF4EF">NOTIFY</text>
+    <text x="983" y="327" font-size="10" fill="#BDA39A">SMTP Email</text>
+    <text x="983" y="346" font-size="9" fill="#937B74">matched alerts</text>
+  </g>
+
+  <!-- STATIC ARROWS -->
+  <g stroke="#C4785E" stroke-width="2" fill="#C4785E">
+    <line x1="204" y1="318" x2="222" y2="318"/>
+    <polygon points="222,318 214,314 214,322"/>
+
+    <line x1="374" y1="318" x2="392" y2="318"/>
+    <polygon points="392,318 384,314 384,322"/>
+
+    <line x1="544" y1="318" x2="562" y2="318"/>
+    <polygon points="562,318 554,314 554,322"/>
+
+    <line x1="714" y1="318" x2="732" y2="318"/>
+    <polygon points="732,318 724,314 724,322"/>
+
+    <line x1="884" y1="318" x2="902" y2="318"/>
+    <polygon points="902,318 894,314 894,322"/>
+  </g>
+
+  <!-- USER -->
+  <rect x="1070" y="270" width="78" height="96" rx="14" fill="#2B1A19" stroke="#D19A78"/>
+  <circle cx="1109" cy="300" r="12" fill="#D19A78"/>
+  <path d="M1093 342C1097 322 1121 322 1125 342" stroke="#FFF3EE" stroke-width="3"/>
+  <text x="1109" y="356" text-anchor="middle"
+        font-family="JetBrains Mono,Consolas,monospace"
+        font-size="9" font-weight="700" fill="#FFF3EE">USER</text>
+
+  <g stroke="#C4785E" stroke-width="2" fill="#C4785E">
+    <line x1="1054" y1="318" x2="1060" y2="318"/>
+    <polygon points="1060,318 1052,314 1052,322"/>
+  </g>
+
+  <!-- API LAYER -->
+  <rect x="78" y="410" width="334" height="112" rx="15" fill="#211617" stroke="#784A41"/>
+  <text x="102" y="441"
+        font-family="JetBrains Mono,Consolas,monospace"
+        font-size="12" font-weight="700" letter-spacing="2"
+        fill="#D19A78">API LAYER</text>
+
+  <rect x="102" y="459" width="132" height="38" rx="8" fill="#302021"/>
+  <text x="168" y="483" text-anchor="middle"
+        font-family="JetBrains Mono,Consolas,monospace"
+        font-size="11" fill="#F3DCD3">REST ENDPOINTS</text>
+
+  <rect x="252" y="459" width="132" height="38" rx="8" fill="#302021"/>
+  <text x="318" y="483" text-anchor="middle"
+        font-family="JetBrains Mono,Consolas,monospace"
+        font-size="11" fill="#F3DCD3">GRAPHQL</text>
+
+  <!-- RELIABILITY -->
+  <rect x="436" y="410" width="332" height="112" rx="15" fill="#211617" stroke="#865044"/>
+  <text x="460" y="441"
+        font-family="JetBrains Mono,Consolas,monospace"
+        font-size="12" font-weight="700" letter-spacing="2"
+        fill="#D19A78">RELIABILITY</text>
+
+  <text x="460" y="470"
+        font-family="JetBrains Mono,Consolas,monospace"
+        font-size="10.5" fill="#D9C0B7">• no duplicate jobs</text>
+  <text x="460" y="491"
+        font-family="JetBrains Mono,Consolas,monospace"
+        font-size="10.5" fill="#D9C0B7">• no duplicate notifications</text>
+  <text x="460" y="512"
+        font-family="JetBrains Mono,Consolas,monospace"
+        font-size="10.5" fill="#D9C0B7">• modular separation of concerns</text>
+
+  <!-- AUTOMATION LOOP -->
+  <rect x="792" y="410" width="330" height="112" rx="15" fill="#211617" stroke="#965B49"/>
+  <text x="816" y="441"
+        font-family="JetBrains Mono,Consolas,monospace"
+        font-size="12" font-weight="700" letter-spacing="2"
+        fill="#D19A78">AUTOMATION LOOP</text>
+
+  <path d="M836 478H1056"
+        stroke="#C4785E"
+        stroke-width="1.8"
+        stroke-dasharray="8 7"/>
+
+  <circle cx="946" cy="478" r="6" fill="#D19A78"/>
+
+  <text x="957" y="508" text-anchor="middle"
+        font-family="JetBrains Mono,Consolas,monospace"
+        font-size="10" fill="#BCA099">INGEST → STORE → MATCH → ALERT</text>
+
+  <text x="78" y="574"
+        font-family="JetBrains Mono,Consolas,monospace"
+        font-size="11" letter-spacing="0.6"
+        fill="#9B7D75">
+    USER REGISTRATION → DATA INGESTION → STORAGE → MATCHING → EVENT TRIGGER → NOTIFICATION DELIVERY
+  </text>
 </svg>
