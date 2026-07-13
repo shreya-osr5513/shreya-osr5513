@@ -1,142 +1,639 @@
-<svg width="1400" height="430" viewBox="0 0 1400 430" fill="none" xmlns="http://www.w3.org/2000/svg">
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="430">
-    <stop stop-color="#0B1118"/>
-    <stop offset=".55" stop-color="#101C27"/>
-    <stop offset="1" stop-color="#0C131B"/>
-  </linearGradient>
+<svg
+  width="1400"
+  height="390"
+  viewBox="0 0 1400 390"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
 
-  <linearGradient id="accent" x1="180" y1="70" x2="1160" y2="350">
-    <stop stop-color="#8DB7D6"/>
-    <stop offset=".5" stop-color="#B4C9E8"/>
-    <stop offset="1" stop-color="#89C7B5"/>
-  </linearGradient>
+    <linearGradient id="background" x1="0" y1="0" x2="1400" y2="390">
+      <stop stop-color="#080E16"/>
+      <stop offset="0.55" stop-color="#0D1823"/>
+      <stop offset="1" stop-color="#09111A"/>
+    </linearGradient>
 
-  <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
-    <feGaussianBlur stdDeviation="1.8" result="b"/>
-    <feMerge>
-      <feMergeNode in="b"/>
-      <feMergeNode in="SourceGraphic"/>
-    </feMerge>
-  </filter>
+    <linearGradient id="nameGradient" x1="180" y1="120" x2="960" y2="260">
+      <stop stop-color="#86B7D2"/>
+      <stop offset="0.52" stop-color="#A6B6D1"/>
+      <stop offset="1" stop-color="#85BBAA"/>
 
-  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-    <path d="M44 0H0V44" stroke="#263746" stroke-width="1" opacity=".22"/>
-  </pattern>
+      <animate
+        attributeName="x1"
+        values="180;360;180"
+        dur="8s"
+        repeatCount="indefinite"
+      />
 
-  <clipPath id="panelClip">
-    <path d="M120 72H1025L1110 157V360H210L120 275Z"/>
-  </clipPath>
-</defs>
+      <animate
+        attributeName="x2"
+        values="960;1140;960"
+        dur="8s"
+        repeatCount="indefinite"
+      />
+    </linearGradient>
 
-<rect width="1400" height="430" rx="28" fill="url(#bg)"/>
-<rect width="1400" height="430" rx="28" fill="url(#grid)"/>
+    <linearGradient id="lineGradient" x1="80" y1="70" x2="1300" y2="330">
+      <stop stop-color="#739CB4"/>
+      <stop offset="0.48" stop-color="#77769B"/>
+      <stop offset="1" stop-color="#74A99B"/>
+    </linearGradient>
 
-<!-- quiet animated traces -->
-<g stroke="url(#accent)" stroke-width="1.6" opacity=".48">
-  <path d="M0 104H108L154 150H274" stroke-dasharray="220" stroke-dashoffset="220">
-    <animate attributeName="stroke-dashoffset" values="220;0;0" dur="6.5s" repeatCount="indefinite"/>
-  </path>
-  <path d="M1400 322H1292L1246 276H1112" stroke-dasharray="220" stroke-dashoffset="220">
-    <animate attributeName="stroke-dashoffset" values="220;0;0" dur="6.5s" begin="1.2s" repeatCount="indefinite"/>
-  </path>
-</g>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
 
-<path d="M120 72H1025L1110 157V360H210L120 275Z"
-      fill="#101923" fill-opacity=".92"
-      stroke="url(#accent)" stroke-width="1.8"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
 
-<g clip-path="url(#panelClip)">
-  <rect x="110" y="65" width="5" height="305" fill="#B9D4E8" opacity=".07">
-    <animate attributeName="x" values="110;1120;110" dur="9s" repeatCount="indefinite"/>
-  </rect>
-</g>
+    <pattern
+      id="grid"
+      width="40"
+      height="40"
+      patternUnits="userSpaceOnUse"
+    >
+      <path
+        d="M40 0H0V40"
+        stroke="#1B3040"
+        stroke-width="1"
+        opacity="0.28"
+      />
+    </pattern>
 
-<text x="205" y="121"
-      font-family="JetBrains Mono,Consolas,monospace"
-      font-size="16" letter-spacing="4"
-      fill="#9AB9CB">
-  ENGINEERING PROFILE // 2026
-</text>
+    <clipPath id="mainPanelClip">
+      <path d="M108 55H1010L1095 140V342H205L108 245Z"/>
+    </clipPath>
 
-<text x="205" y="222"
-      font-family="Inter,Segoe UI,Arial,sans-serif"
-      font-size="82" font-weight="850" letter-spacing="-1.5"
-      fill="url(#accent)" filter="url(#soft)">
-  SHREYA GUPTA
-</text>
+  </defs>
 
-<text x="208" y="274"
-      font-family="Inter,Segoe UI,Arial,sans-serif"
-      font-size="24" font-weight="700"
-      fill="#D8E5EC">
-  Third-year B.Tech ECE-AI Student at IGDTUW
-</text>
+  <!-- Background -->
 
-<!-- rotating profile line with softer transitions -->
-<g font-family="JetBrains Mono,Consolas,monospace"
-   font-size="18" fill="#A9C8D5">
+  <rect
+    width="1400"
+    height="390"
+    rx="26"
+    fill="url(#background)"
+  />
 
-  <text x="208" y="323" opacity="0">
-    Building reliable backend systems with clear, practical architecture.
-    <animate attributeName="opacity"
-      values="0;1;1;0;0"
-      keyTimes="0;.08;.23;.31;1"
-      dur="14s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate"
-      values="-32 0;0 0;0 0;24 0;24 0"
-      keyTimes="0;.08;.23;.31;1"
-      dur="14s" repeatCount="indefinite"/>
+  <rect
+    width="1400"
+    height="390"
+    rx="26"
+    fill="url(#grid)"
+  />
+
+  <!-- Animated outer traces -->
+
+  <g
+    fill="none"
+    stroke="url(#lineGradient)"
+    stroke-width="1.7"
+    opacity="0.55"
+  >
+
+    <path
+      d="M0 92H91L137 138H264"
+      stroke-dasharray="220"
+      stroke-dashoffset="220"
+    >
+      <animate
+        attributeName="stroke-dashoffset"
+        values="220;0;0"
+        dur="6s"
+        repeatCount="indefinite"
+      />
+    </path>
+
+    <path
+      d="M1400 316H1301L1253 268H1125"
+      stroke-dasharray="220"
+      stroke-dashoffset="220"
+    >
+      <animate
+        attributeName="stroke-dashoffset"
+        values="220;0;0"
+        dur="6s"
+        begin="1s"
+        repeatCount="indefinite"
+      />
+    </path>
+
+    <path
+      d="M92 390V350L132 310H221"
+      stroke-dasharray="160"
+      stroke-dashoffset="160"
+    >
+      <animate
+        attributeName="stroke-dashoffset"
+        values="160;0;0"
+        dur="5.5s"
+        begin=".8s"
+        repeatCount="indefinite"
+      />
+    </path>
+
+  </g>
+
+  <!-- Main asymmetric panel -->
+
+  <path
+    d="M108 55H1010L1095 140V342H205L108 245Z"
+    fill="#0E1924"
+    fill-opacity="0.94"
+    stroke="url(#lineGradient)"
+    stroke-width="1.8"
+  />
+
+  <!-- Moving scan -->
+
+  <g clip-path="url(#mainPanelClip)">
+
+    <rect
+      x="100"
+      y="52"
+      width="5"
+      height="300"
+      fill="#B2CCDA"
+      opacity="0.07"
+    >
+      <animate
+        attributeName="x"
+        values="100;1100;100"
+        dur="9s"
+        repeatCount="indefinite"
+      />
+    </rect>
+
+  </g>
+
+  <!-- Header -->
+
+  <text
+    x="188"
+    y="105"
+    font-family="JetBrains Mono, Consolas, monospace"
+    font-size="16"
+    letter-spacing="4.2"
+    fill="#91B5C7"
+  >
+    ENGINEERING PROFILE // 2026
   </text>
 
-  <text x="208" y="323" opacity="0">
-    Connecting APIs, automation, data, and applied AI into useful products.
-    <animate attributeName="opacity"
-      values="0;0;1;1;0;0"
-      keyTimes="0;.31;.39;.54;.62;1"
-      dur="14s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate"
-      values="0 18;0 18;0 0;0 0;0 -18;0 -18"
-      keyTimes="0;.31;.39;.54;.62;1"
-      dur="14s" repeatCount="indefinite"/>
+  <text
+    x="188"
+    y="205"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="78"
+    font-weight="850"
+    letter-spacing="-1"
+    fill="url(#nameGradient)"
+    filter="url(#softGlow)"
+  >
+    SHREYA GUPTA
   </text>
 
-  <text x="208" y="323" opacity="0">
-    Learning deeply, building thoughtfully, and improving every system.
-    <animate attributeName="opacity"
-      values="0;0;1;1;0;0"
-      keyTimes="0;.62;.70;.86;.94;1"
-      dur="14s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale"
-      values=".97 1;.97 1;1 1;1 1;1.03 1;1.03 1"
-      keyTimes="0;.62;.70;.86;.94;1"
-      dur="14s" repeatCount="indefinite"/>
+  <text
+    x="191"
+    y="254"
+    font-family="Inter, Segoe UI, Arial, sans-serif"
+    font-size="23"
+    font-weight="700"
+    fill="#DCE7EC"
+  >
+    Third-year B.Tech ECE-AI Student at IGDTUW
   </text>
-</g>
 
-<!-- restrained SG mark -->
-<g transform="translate(1172 82)">
-  <path d="M70 0L126 32V96L70 128L14 96V32Z"
-        fill="#111C26" stroke="url(#accent)" stroke-width="1.7"/>
-  <path d="M70 16L111 39V89L70 112L29 89V39Z"
-        fill="none" stroke="#415766" stroke-width="1"/>
-  <text x="70" y="75" text-anchor="middle"
-        font-family="JetBrains Mono,Consolas,monospace"
-        font-size="31" font-weight="800"
-        fill="#9FC9BA">
-    SG
-  </text>
-  <animateTransform attributeName="transform" type="translate"
-    values="1172 82;1172 76;1172 82"
-    dur="4.6s" repeatCount="indefinite"/>
-</g>
+  <!-- Rotating professional statements -->
 
-<g fill="#9FC9BA">
-  <circle cx="154" cy="150" r="4">
-    <animate attributeName="r" values="3.5;5.5;3.5" dur="2.8s" repeatCount="indefinite"/>
+  <g
+    font-family="JetBrains Mono, Consolas, monospace"
+    font-size="17"
+    fill="#9CB9C5"
+  >
+
+    <text x="191" y="305" opacity="0">
+
+      Building reliable backend systems with practical architecture.
+
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0;0"
+        keyTimes="0;.08;.23;.31;1"
+        dur="14s"
+        repeatCount="indefinite"
+      />
+
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="-30 0;0 0;0 0;25 0;25 0"
+        keyTimes="0;.08;.23;.31;1"
+        dur="14s"
+        repeatCount="indefinite"
+      />
+
+    </text>
+
+    <text x="191" y="305" opacity="0">
+
+      Connecting APIs, automation, data, and applied intelligence.
+
+      <animate
+        attributeName="opacity"
+        values="0;0;1;1;0;0"
+        keyTimes="0;.31;.39;.54;.62;1"
+        dur="14s"
+        repeatCount="indefinite"
+      />
+
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 18;0 18;0 0;0 0;0 -18;0 -18"
+        keyTimes="0;.31;.39;.54;.62;1"
+        dur="14s"
+        repeatCount="indefinite"
+      />
+
+    </text>
+
+    <text x="191" y="305" opacity="0">
+
+      Learning deeply, building thoughtfully, and improving continuously.
+
+      <animate
+        attributeName="opacity"
+        values="0;0;1;1;0;0"
+        keyTimes="0;.62;.70;.86;.94;1"
+        dur="14s"
+        repeatCount="indefinite"
+      />
+
+      <animateTransform
+        attributeName="transform"
+        type="scale"
+        values=".97 1;.97 1;1 1;1 1;1.03 1;1.03 1"
+        keyTimes="0;.62;.70;.86;.94;1"
+        dur="14s"
+        repeatCount="indefinite"
+      />
+
+    </text>
+
+  </g>
+
+  <!-- Right-side SG mark -->
+
+  <g transform="translate(1192 42)">
+
+    <path
+      d="M58 0L110 30V90L58 120L6 90V30Z"
+      fill="#101C26"
+      stroke="url(#lineGradient)"
+      stroke-width="1.8"
+    />
+
+    <path
+      d="M58 15L95 37V83L58 105L21 83V37Z"
+      fill="none"
+      stroke="#425A69"
+      stroke-width="1"
+    />
+
+    <text
+      x="58"
+      y="70"
+      text-anchor="middle"
+      font-family="JetBrains Mono, Consolas, monospace"
+      font-size="27"
+      font-weight="800"
+      fill="#8EC3B2"
+    >
+      SG
+    </text>
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="1192 42;1192 36;1192 42"
+      dur="4.5s"
+      repeatCount="indefinite"
+    />
+
+  </g>
+
+  <!-- Minimal animated coding girl -->
+
+  <g transform="translate(1138 165)">
+
+    <!-- floating circuit -->
+
+    <g
+      fill="none"
+      stroke="#4E6D7E"
+      stroke-width="1.4"
+      opacity="0.7"
+    >
+
+      <path
+        d="M-25 40H18L40 62H70"
+        stroke-dasharray="7 6"
+      >
+        <animate
+          attributeName="stroke-dashoffset"
+          values="0;-42"
+          dur="4s"
+          repeatCount="indefinite"
+        />
+      </path>
+
+      <path
+        d="M194 37H226L247 58H275"
+        stroke-dasharray="7 6"
+      >
+        <animate
+          attributeName="stroke-dashoffset"
+          values="0;42"
+          dur="4s"
+          repeatCount="indefinite"
+        />
+      </path>
+
+    </g>
+
+    <!-- desk -->
+
+    <path
+      d="M12 174H255"
+      stroke="#698797"
+      stroke-width="3"
+      stroke-linecap="round"
+    />
+
+    <path
+      d="M34 174V210M232 174V210"
+      stroke="#394E5B"
+      stroke-width="4"
+    />
+
+    <!-- chair -->
+
+    <path
+      d="M73 118V192M73 192H110"
+      stroke="#405866"
+      stroke-width="8"
+      stroke-linecap="round"
+    />
+
+    <!-- body -->
+
+    <path
+      d="M96 88C77 99 72 126 78 160H151C157 126 149 101 130 89Z"
+      fill="#4B6074"
+      stroke="#778EA2"
+      stroke-width="1.5"
+    />
+
+    <!-- neck -->
+
+    <rect
+      x="104"
+      y="71"
+      width="20"
+      height="23"
+      rx="8"
+      fill="#C79B7C"
+    />
+
+    <!-- face -->
+
+    <circle
+      cx="114"
+      cy="53"
+      r="26"
+      fill="#C79B7C"
+    />
+
+    <!-- hair -->
+
+    <path
+      d="M88 54C88 29 102 17 121 17C143 18 151 35 146 59L135 46C127 38 109 34 96 46L88 54Z"
+      fill="#27343E"
+    />
+
+    <path
+      d="M92 50C88 68 93 87 105 93"
+      stroke="#27343E"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+
+    <!-- face details -->
+
+    <circle cx="105" cy="54" r="2" fill="#27343E"/>
+    <circle cx="125" cy="54" r="2" fill="#27343E"/>
+
+    <path
+      d="M109 66C114 69 120 69 125 66"
+      stroke="#805E54"
+      stroke-width="1.4"
+    />
+
+    <!-- laptop -->
+
+    <rect
+      x="137"
+      y="99"
+      width="84"
+      height="58"
+      rx="6"
+      fill="#172832"
+      stroke="#819EAD"
+      stroke-width="1.8"
+    />
+
+    <rect
+      x="144"
+      y="106"
+      width="70"
+      height="42"
+      rx="3"
+      fill="#0B161E"
+    />
+
+    <!-- animated code -->
+
+    <rect
+      x="151"
+      y="115"
+      width="36"
+      height="3"
+      rx="1.5"
+      fill="#78C2AF"
+    >
+      <animate
+        attributeName="width"
+        values="18;43;27;18"
+        dur="2.4s"
+        repeatCount="indefinite"
+      />
+    </rect>
+
+    <rect
+      x="151"
+      y="125"
+      width="48"
+      height="3"
+      rx="1.5"
+      fill="#7898B0"
+    >
+      <animate
+        attributeName="width"
+        values="43;24;55;43"
+        dur="2.8s"
+        repeatCount="indefinite"
+      />
+    </rect>
+
+    <rect
+      x="151"
+      y="135"
+      width="28"
+      height="3"
+      rx="1.5"
+      fill="#9586A9"
+    >
+      <animate
+        attributeName="width"
+        values="22;48;31;22"
+        dur="2.2s"
+        repeatCount="indefinite"
+      />
+    </rect>
+
+    <!-- laptop base -->
+
+    <path
+      d="M126 157H232L242 168H116Z"
+      fill="#728D9B"
+      stroke="#A1B8C2"
+      stroke-width="1.4"
+    />
+
+    <!-- arms -->
+
+    <path
+      d="M98 105C116 117 130 135 147 151"
+      stroke="#C79B7C"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+
+    <path
+      d="M134 104C147 119 157 136 169 152"
+      stroke="#C79B7C"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+
+    <!-- typing hands -->
+
+    <circle
+      cx="150"
+      cy="153"
+      r="6"
+      fill="#C79B7C"
+    >
+      <animate
+        attributeName="cy"
+        values="153;149;153"
+        dur=".55s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <circle
+      cx="172"
+      cy="153"
+      r="6"
+      fill="#C79B7C"
+    >
+      <animate
+        attributeName="cy"
+        values="149;153;149"
+        dur=".55s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <!-- warm mug -->
+
+    <rect
+      x="232"
+      y="137"
+      width="23"
+      height="30"
+      rx="5"
+      fill="#806259"
+    />
+
+    <path
+      d="M255 143C268 143 268 160 255 160"
+      stroke="#806259"
+      stroke-width="5"
+      fill="none"
+    />
+
+    <!-- steam -->
+
+    <path
+      d="M239 130C233 122 246 117 239 108"
+      stroke="#A9BEC6"
+      stroke-width="2"
+      fill="none"
+      opacity="0.6"
+    >
+      <animate
+        attributeName="opacity"
+        values=".2;.8;.2"
+        dur="2s"
+        repeatCount="indefinite"
+      />
+    </path>
+
+  </g>
+
+  <!-- animated data nodes -->
+
+  <circle
+    cx="137"
+    cy="138"
+    r="4"
+    fill="#88BDAE"
+  >
+    <animate
+      attributeName="r"
+      values="3.5;5.5;3.5"
+      dur="2.8s"
+      repeatCount="indefinite"
+    />
   </circle>
-  <circle cx="1246" cy="276" r="4">
-    <animate attributeName="r" values="3.5;5.5;3.5" dur="2.8s" begin=".9s" repeatCount="indefinite"/>
+
+  <circle
+    cx="1253"
+    cy="268"
+    r="4"
+    fill="#829DB0"
+  >
+    <animate
+      attributeName="r"
+      values="3.5;5.5;3.5"
+      dur="2.8s"
+      begin=".9s"
+      repeatCount="indefinite"
+    />
   </circle>
-</g>
+
 </svg>
