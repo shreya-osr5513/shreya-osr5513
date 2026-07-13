@@ -1,70 +1,136 @@
 <div align="center">
-<img src="./assets/hero.svg" width="100%" alt="Shreya Gupta — Third-year B.Tech ECE-AI student at IGDTUW" />
+
+<img
+  src="./assets/hero.svg"
+  width="100%"
+  alt="Shreya Gupta — Third-year B.Tech ECE-AI Student at IGDTUW"
+/>
+
 <br/><br/>
+
 <a href="https://github.com/shreya-osr5513">
-  <img src="https://img.shields.io/badge/-shreya--osr5513-171B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img
+    src="https://img.shields.io/badge/-shreya--osr5513-171D25?style=for-the-badge&logo=github&logoColor=EAF4F8"
+    alt="GitHub"
+  />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/shreya-gupta-7b6b96250">
-  <img src="https://img.shields.io/badge/-shreya--gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img
+    src="https://img.shields.io/badge/-shreya--gupta-294E68?style=for-the-badge&logo=linkedin&logoColor=EAF4F8"
+    alt="LinkedIn"
+  />
 </a>
 &nbsp;
 <a href="mailto:shreya.gupta.osr@gmail.com">
-  <img src="https://img.shields.io/badge/-shreya.gupta.osr-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img
+    src="https://img.shields.io/badge/-shreya.gupta.osr-35636B?style=for-the-badge&logo=gmail&logoColor=EAF4F8"
+    alt="Email"
+  />
 </a>
+
 </div>
+
+<br/>
+
 ---
 
 ## `01 // PROFILE SNAPSHOT`
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-<h3>
-  <img src="https://img.shields.io/badge/ACADEMIC-0F4C5C?style=for-the-badge&logo=academia&logoColor=white" />
-</h3>
+<br/>
+
+<img
+  src="https://img.shields.io/badge/ACADEMIC-294E68?style=for-the-badge&logo=academia&logoColor=white"
+  alt="Academic"
+/>
+
+<br/><br/>
 
 **Third-year B.Tech ECE-AI Student**  
 Indira Gandhi Delhi Technical University for Women
 
-<img src="https://img.shields.io/badge/New_Delhi,_India-1B263B?style=flat-square&logo=googlemaps&logoColor=white" />
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/New_Delhi,_India-1A2733?style=flat-square&logo=googlemaps&logoColor=white"
+  alt="New Delhi, India"
+/>
+
+<br/>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>
-  <img src="https://img.shields.io/badge/CORE_DOMAINS-5B4B8A?style=for-the-badge&logo=codeforces&logoColor=white" />
-</h3>
+<br/>
 
-<img src="https://img.shields.io/badge/Backend_Development-123B5D?style=flat-square" />
-<img src="https://img.shields.io/badge/Software_Engineering-1F6F78?style=flat-square" />
-<img src="https://img.shields.io/badge/AI_%2F_LLM_Applications-5B4B8A?style=flat-square" />
-<img src="https://img.shields.io/badge/APIs,_Automation_%26_Data_Systems-2B4C5D?style=flat-square" />
+<img
+  src="https://img.shields.io/badge/CORE_DOMAINS-3A566F?style=for-the-badge&logo=buffer&logoColor=white"
+  alt="Core Domains"
+/>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/Backend_Development-234B5C?style=flat-square&logoColor=white"
+  alt="Backend Development"
+/>
+<img
+  src="https://img.shields.io/badge/Software_Engineering-2E5C68?style=flat-square&logoColor=white"
+  alt="Software Engineering"
+/>
+<img
+  src="https://img.shields.io/badge/AI_%2F_LLM_Applications-465D73?style=flat-square&logoColor=white"
+  alt="AI and LLM Applications"
+/>
+<img
+  src="https://img.shields.io/badge/APIs,_Automation_%26_Data_Systems-344E5E?style=flat-square&logoColor=white"
+  alt="APIs, Automation and Data Systems"
+/>
+
+<br/>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-<h3>
-  <img src="https://img.shields.io/badge/CURRENTLY_STRENGTHENING-0F766E?style=for-the-badge&logo=target&logoColor=white" />
-</h3>
+<br/>
+
+<img
+  src="https://img.shields.io/badge/CURRENTLY_STRENGTHENING-35636B?style=for-the-badge&logo=target&logoColor=white"
+  alt="Currently Strengthening"
+/>
+
+<br/>
 
 - Data Structures & Algorithms
 - Backend Development
 - API Design & Integration
 - System Design Fundamentals
 
+<br/>
+
 </td>
 
 <td width="50%" valign="top">
 
-<h3>
-  <img src="https://img.shields.io/badge/HOW_I_LIKE_TO_BUILD-3B5B92?style=for-the-badge&logo=blueprint&logoColor=white" />
-</h3>
+<br/>
+
+<img
+  src="https://img.shields.io/badge/HOW_I_LIKE_TO_BUILD-38566D?style=for-the-badge&logo=blueprint&logoColor=white"
+  alt="How I Like to Build"
+/>
+
+<br/>
 
 - Understand the complete workflow
 - Design clean API and data layers
@@ -72,7 +138,10 @@ Indira Gandhi Delhi Technical University for Women
 - Add AI only where it creates value
 - Measure, improve, and ship
 
+<br/>
+
 </td>
+
 </tr>
 </table>
 
@@ -81,11 +150,13 @@ Indira Gandhi Delhi Technical University for Women
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=5EC7E8&center=true&vCenter=true&width=950&height=50&lines=I+enjoy+turning+complex+workflows+into+clean+APIs.;I+build+reliable+backend+services+and+practical+AI-powered+products.;I+like+connecting+data%2C+automation%2C+and+intelligence.;Learning+deeply%2C+building+thoughtfully%2C+and+improving+continuously."
-  alt="Typing introduction"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2700&pause=1000&color=83AEC2&center=true&vCenter=true&width=950&height=55&lines=Turning+complex+workflows+into+clean+and+reliable+APIs.;Building+backend+services+that+solve+practical+problems.;Connecting+data%2C+automation%2C+and+applied+intelligence.;Learning+deeply%2C+building+thoughtfully%2C+and+improving+continuously."
+  alt="Animated introduction"
 />
 
 </div>
+
+<br/>
 
 ---
 
