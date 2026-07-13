@@ -21,23 +21,27 @@
 <tr>
 <td width="50%" valign="top">
 
-### `ACADEMIC`
+<h3>
+  <img src="https://img.shields.io/badge/ACADEMIC-0F4C5C?style=for-the-badge&logo=academia&logoColor=white" />
+</h3>
 
-**Third-year B.Tech ECE-AI student**  
+**Third-year B.Tech ECE-AI Student**  
 Indira Gandhi Delhi Technical University for Women
 
-`New Delhi, India`
+<img src="https://img.shields.io/badge/New_Delhi,_India-1B263B?style=flat-square&logo=googlemaps&logoColor=white" />
 
 </td>
 
 <td width="50%" valign="top">
 
-### `CORE DOMAINS`
+<h3>
+  <img src="https://img.shields.io/badge/CORE_DOMAINS-5B4B8A?style=for-the-badge&logo=codeforces&logoColor=white" />
+</h3>
 
-`Backend Development`  
-`Software Engineering`  
-`AI / LLM Applications`  
-`APIs, Automation & Data Systems`
+<img src="https://img.shields.io/badge/Backend_Development-123B5D?style=flat-square" />
+<img src="https://img.shields.io/badge/Software_Engineering-1F6F78?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_%2F_LLM_Applications-5B4B8A?style=flat-square" />
+<img src="https://img.shields.io/badge/APIs,_Automation_%26_Data_Systems-2B4C5D?style=flat-square" />
 
 </td>
 </tr>
@@ -45,19 +49,22 @@ Indira Gandhi Delhi Technical University for Women
 <tr>
 <td width="50%" valign="top">
 
-### `CURRENTLY STRENGTHENING`
+<h3>
+  <img src="https://img.shields.io/badge/CURRENTLY_STRENGTHENING-0F766E?style=for-the-badge&logo=target&logoColor=white" />
+</h3>
 
 - Data Structures & Algorithms
-- Operating Systems
-- Database Management Systems
-- Object-Oriented Programming
+- Backend Development
+- API Design & Integration
 - System Design Fundamentals
 
 </td>
 
 <td width="50%" valign="top">
 
-### `HOW I LIKE TO BUILD`
+<h3>
+  <img src="https://img.shields.io/badge/HOW_I_LIKE_TO_BUILD-3B5B92?style=for-the-badge&logo=blueprint&logoColor=white" />
+</h3>
 
 - Understand the complete workflow
 - Design clean API and data layers
@@ -71,10 +78,14 @@ Indira Gandhi Delhi Technical University for Women
 
 <br/>
 
+<div align="center">
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7DD3FC&vCenter=true&width=950&height=45&lines=I+enjoy+turning+complex+workflows+into+clean+APIs.;I+build+reliable+backend+services+and+practical+AI-powered+products.;I+like+connecting+data%2C+automation%2C+and+intelligence.;Learning+deeply%2C+building+thoughtfully%2C+and+improving+continuously."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=5EC7E8&center=true&vCenter=true&width=950&height=50&lines=I+enjoy+turning+complex+workflows+into+clean+APIs.;I+build+reliable+backend+services+and+practical+AI-powered+products.;I+like+connecting+data%2C+automation%2C+and+intelligence.;Learning+deeply%2C+building+thoughtfully%2C+and+improving+continuously."
   alt="Typing introduction"
 />
+
+</div>
 
 ---
 
