@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="./assets/hero3.svg"
+  src="./assets/hero_new.svg"
   width="100%"
   alt="Shreya Gupta — Third-year B.Tech ECE-AI Student at IGDTUW"
 />
