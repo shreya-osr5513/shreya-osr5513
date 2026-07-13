@@ -71,7 +71,7 @@ I enjoy building **backend-heavy applications** where APIs, databases, automatio
 <details open>
 <summary>
   <img
-    src="https://img.shields.io/badge/WHAT_I_LIKE_BUILDING-3E6970?style=flat-square&logo=buffer&logoColor=white"
+    src="https://img.shields.io/badge/WHAT_I_LIKE_BUILDING-6E6253?style=flat-square&logo=buffer&logoColor=white"
     alt="What I like building"
   />
 </summary>
@@ -85,7 +85,7 @@ Scalable backend workflows, clean REST APIs, automated systems, intelligent matc
 <details>
 <summary>
   <img
-    src="https://img.shields.io/badge/CURRENTLY_STRENGTHENING-4D6079?style=flat-square&logo=target&logoColor=white"
+    src="https://img.shields.io/badge/CURRENTLY_STRENGTHENING-6E6253?style=flat-square&logo=target&logoColor=white"
     alt="Currently strengthening"
   />
 </summary>
