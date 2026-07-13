@@ -1,21 +1,18 @@
 <div align="center">
-
-<img src="./assets/hero.svg" width="100%" alt="Shreya Gupta engineering profile" />
-
-<br/>
-
-### Building backend-heavy products where APIs, data, automation, and intelligence work together.
-
-<sub>Third-year B.Tech ECE-AI student at IGDTUW • New Delhi, India</sub>
-
+<img src="./assets/hero.svg" width="100%" alt="Shreya Gupta — Third-year B.Tech ECE-AI student at IGDTUW" />
 <br/><br/>
-
-[**GitHub**](https://github.com/shreya-osr5513) &nbsp;•&nbsp;
-[**LinkedIn**](https://www.linkedin.com/in/shreya-gupta-7b6b96250) &nbsp;•&nbsp;
-[**Email**](mailto:shreya.gupta.osr@gmail.com)
-
+<a href="https://github.com/shreya-osr5513">
+  <img src="https://img.shields.io/badge/-shreya--osr5513-171B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/shreya-gupta-7b6b96250">
+  <img src="https://img.shields.io/badge/-shreya--gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:shreya.gupta.osr@gmail.com">
+  <img src="https://img.shields.io/badge/-shreya.gupta.osr-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </div>
-
 ---
 
 ## `01 // PROFILE SNAPSHOT`
