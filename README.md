@@ -6,8 +6,6 @@
   alt="Shreya Gupta — Third-year B.Tech ECE-AI Student at IGDTUW"
 />
 
-<br/>
-
 <a href="https://github.com/shreya-osr5513">
   <img
     src="https://img.shields.io/badge/-shreya--osr5513-171D25?style=for-the-badge&logo=github&logoColor=white"
@@ -17,14 +15,14 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/shreya-gupta-7b6b96250">
   <img
-    src="https://img.shields.io/badge/-shreya--gupta-294E68?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/-shreya--gupta-315A76?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 &nbsp;
 <a href="mailto:shreya.gupta.osr@gmail.com">
   <img
-    src="https://img.shields.io/badge/-shreya.gupta.osr-35636B?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/-shreya.gupta.osr-76594F?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
   />
 </a>
@@ -50,19 +48,19 @@ I enjoy building **backend-heavy applications** where APIs, databases, automatio
 <div align="center">
 
 <img
-  src="https://img.shields.io/badge/Backend_Development-294E68?style=flat-square&logo=fastapi&logoColor=white"
+  src="https://img.shields.io/badge/Backend_Development-2F6170?style=flat-square&logo=fastapi&logoColor=white"
   alt="Backend Development"
 />
 <img
-  src="https://img.shields.io/badge/Software_Engineering-35566D?style=flat-square&logo=codeforces&logoColor=white"
+  src="https://img.shields.io/badge/Software_Engineering-405D78?style=flat-square&logo=codeforces&logoColor=white"
   alt="Software Engineering"
 />
 <img
-  src="https://img.shields.io/badge/AI_%2F_LLM_Applications-416579?style=flat-square&logo=openai&logoColor=white"
+  src="https://img.shields.io/badge/AI_%2F_LLM_Applications-625F82?style=flat-square&logo=openai&logoColor=white"
   alt="AI and LLM Applications"
 />
 <img
-  src="https://img.shields.io/badge/APIs_%26_Data_Systems-35636B?style=flat-square&logo=databricks&logoColor=white"
+  src="https://img.shields.io/badge/APIs_%26_Data_Systems-496E70?style=flat-square&logo=databricks&logoColor=white"
   alt="APIs and Data Systems"
 />
 
@@ -71,7 +69,12 @@ I enjoy building **backend-heavy applications** where APIs, databases, automatio
 <br/>
 
 <details open>
-<summary><b>What I like building</b></summary>
+<summary>
+  <img
+    src="https://img.shields.io/badge/WHAT_I_LIKE_BUILDING-3E6970?style=flat-square&logo=buffer&logoColor=white"
+    alt="What I like building"
+  />
+</summary>
 
 <br/>
 
@@ -80,7 +83,12 @@ Scalable backend workflows, clean REST APIs, automated systems, intelligent matc
 </details>
 
 <details>
-<summary><b>What I am currently strengthening</b></summary>
+<summary>
+  <img
+    src="https://img.shields.io/badge/CURRENTLY_STRENGTHENING-4D6079?style=flat-square&logo=target&logoColor=white"
+    alt="Currently strengthening"
+  />
+</summary>
 
 <br/>
 
@@ -89,7 +97,12 @@ Scalable backend workflows, clean REST APIs, automated systems, intelligent matc
 </details>
 
 <details>
-<summary><b>How I approach a problem</b></summary>
+<summary>
+  <img
+    src="https://img.shields.io/badge/HOW_I_APPROACH_A_PROBLEM-6E6253?style=flat-square&logo=blueprint&logoColor=white"
+    alt="How I approach a problem"
+  />
+</summary>
 
 <br/>
 
@@ -102,7 +115,7 @@ Scalable backend workflows, clean REST APIs, automated systems, intelligent matc
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=83AEC2&center=true&vCenter=true&width=950&height=42&lines=Designing+APIs+that+keep+complex+workflows+simple.;Building+backend+systems+that+solve+real+problems.;Using+applied+AI+where+it+genuinely+improves+the+product.;Learning+deeply%2C+building+thoughtfully%2C+and+iterating+continuously."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=82AFC2&center=true&vCenter=true&width=950&height=42&lines=Designing+APIs+that+keep+complex+workflows+simple.;Building+backend+systems+that+solve+real+problems.;Using+applied+AI+where+it+genuinely+improves+the+product.;Learning+deeply%2C+building+thoughtfully%2C+and+iterating+continuously."
   alt="Animated profile statement"
 />
 
@@ -111,7 +124,6 @@ Scalable backend workflows, clean REST APIs, automated systems, intelligent matc
 ---
 
 ## `02 // EXPERIENCE LOG`
-
 <table>
 <tr>
 <td width="24%" align="center">
