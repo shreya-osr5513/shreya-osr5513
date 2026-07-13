@@ -17,22 +17,64 @@
 
 ## `01 // PROFILE SNAPSHOT`
 
-```yaml
-student: Third-year B.Tech ECE-AI @ IGDTUW
-focus:
-  - Backend Development
-  - Software Engineering
-  - AI/LLM Applications
-  - APIs, Automation, and Data Systems
+<table>
+<tr>
+<td width="50%" valign="top">
 
-currently_strengthening:
-  - Data Structures & Algorithms
-  - Operating Systems
-  - DBMS
-  - System Design
-```
+### `ACADEMIC`
 
-I enjoy converting complex workflows into **clean APIs, reliable backend services, and practical AI-powered products**.
+**Third-year B.Tech ECE-AI student**  
+Indira Gandhi Delhi Technical University for Women
+
+`New Delhi, India`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `CORE DOMAINS`
+
+`Backend Development`  
+`Software Engineering`  
+`AI / LLM Applications`  
+`APIs, Automation & Data Systems`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `CURRENTLY STRENGTHENING`
+
+- Data Structures & Algorithms
+- Operating Systems
+- Database Management Systems
+- Object-Oriented Programming
+- System Design Fundamentals
+
+</td>
+
+<td width="50%" valign="top">
+
+### `HOW I LIKE TO BUILD`
+
+- Understand the complete workflow
+- Design clean API and data layers
+- Automate repetitive processes
+- Add AI only where it creates value
+- Measure, improve, and ship
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7DD3FC&vCenter=true&width=950&height=45&lines=I+enjoy+turning+complex+workflows+into+clean+APIs.;I+build+reliable+backend+services+and+practical+AI-powered+products.;I+like+connecting+data%2C+automation%2C+and+intelligence.;Learning+deeply%2C+building+thoughtfully%2C+and+improving+continuously."
+  alt="Typing introduction"
+/>
 
 ---
 
