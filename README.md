@@ -125,70 +125,66 @@ Scalable backend workflows, clean REST APIs, automated systems, intelligent matc
 
 ## `02 // EXPERIENCE LOG`
 
-<div align="left">
+<p align="left">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Indian_Institute_of_Technology%2C_Jammu_Logo.svg/250px-Indian_Institute_of_Technology%2C_Jammu_Logo.svg.png"
+    width="72"
+    align="left"
+    alt="IIT Jammu logo"
+  />
 
-<img
-  src="https://img.shields.io/badge/IIT_JAMMU-315A76?style=for-the-badge&logo=academia&logoColor=white"
-  alt="IIT Jammu"
-/>
-<img
-  src="https://img.shields.io/badge/SUMMER_AI_INTERN-625F82?style=for-the-badge&logo=openai&logoColor=white"
-  alt="Summer AI Intern"
-/>
-<img
-  src="https://img.shields.io/badge/JUN_2025_–_AUG_2025-6E6253?style=for-the-badge&logo=googlecalendar&logoColor=white"
-  alt="June 2025 to August 2025"
-/>
+  <strong>IIT Jammu</strong><br/>
+  <strong>Summer AI Intern</strong><br/>
+  <code>Jun 2025 – Aug 2025</code>
+</p>
 
-</div>
-
-<br/>
+<br clear="left"/>
 
 > Built backend automation and intelligent job-matching workflows by combining APIs, LLMs, embeddings, and structured data pipelines.
-
-<details open>
-
-<summary>
-  <img
-    src="https://img.shields.io/badge/ROLE_IMPACT-3E6970?style=flat-square&logo=buffer&logoColor=white"
-    alt="Role Impact"
-  />
-</summary>
-
-<br/>
 
 - Built backend workflows integrating **LLMs, REST APIs, Gmail API, and Google Sheets API**
 - Developed an **embedding-based job-matching system** for comparing candidate profiles with job listings
 - Automated structured tracking of **100+ job listings**
 - Used **asynchronous API calls** to reduce blocking across repeated data-collection and matching workflows
 
-</details>
+### Technologies Used
 
-<details>
+<div align="left">
 
-<summary>
-  <img
-    src="https://img.shields.io/badge/ENGINEERING_FOCUS-4D6079?style=flat-square&logo=codeforces&logoColor=white"
-    alt="Engineering Focus"
-  />
-</summary>
-
-<br/>
-
-`Backend Automation` · `REST APIs` · `LLM Integration` · `Embeddings` · `Async Workflows`
-
-</details>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/100%2B-Job_Listings-315A76?style=flat-square" />
-<img src="https://img.shields.io/badge/LLMs-Integrated-625F82?style=flat-square" />
-<img src="https://img.shields.io/badge/APIs-Automated-3E6970?style=flat-square" />
-<img src="https://img.shields.io/badge/Async-Workflows-6E6253?style=flat-square" />
+<img
+  src="https://img.shields.io/badge/Python-202B36?style=flat-square&logo=python&logoColor=FFD43B"
+  alt="Python"
+/>
+<img
+  src="https://img.shields.io/badge/REST_APIs-202B36?style=flat-square&logo=swagger&logoColor=85EA2D"
+  alt="REST APIs"
+/>
+<img
+  src="https://img.shields.io/badge/LLM_Integration-202B36?style=flat-square&logo=openai&logoColor=white"
+  alt="LLM Integration"
+/>
+<img
+  src="https://img.shields.io/badge/Embeddings-202B36?style=flat-square&logo=huggingface&logoColor=FFD21E"
+  alt="Embeddings"
+/>
+<img
+  src="https://img.shields.io/badge/Gmail_API-202B36?style=flat-square&logo=gmail&logoColor=EA4335"
+  alt="Gmail API"
+/>
+<img
+  src="https://img.shields.io/badge/Google_Sheets_API-202B36?style=flat-square&logo=googlesheets&logoColor=34A853"
+  alt="Google Sheets API"
+/>
+<img
+  src="https://img.shields.io/badge/Async_Workflows-202B36?style=flat-square&logo=python&logoColor=8AB4F8"
+  alt="Asynchronous Workflows"
+/>
 
 </div>
+
+<br/>
+
+**Impact:** Automated the tracking of **100+ job listings** and improved repeated data-collection and matching workflows through asynchronous processing.
 
 ---
 
