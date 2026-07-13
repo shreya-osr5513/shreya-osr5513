@@ -2,27 +2,29 @@
 
 <img
   src="./assets/hero.svg"
-  width="94%"
+  width="90%"
   alt="Shreya Gupta — Third-year B.Tech ECE-AI Student at IGDTUW"
 />
 
+<br/>
+
 <a href="https://github.com/shreya-osr5513">
   <img
-    src="https://img.shields.io/badge/-shreya--osr5513-171D25?style=for-the-badge&logo=github&logoColor=EAF4F8"
+    src="https://img.shields.io/badge/-shreya--osr5513-171D25?style=flat-square&logo=github&logoColor=white"
     alt="GitHub"
   />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/shreya-gupta-7b6b96250">
   <img
-    src="https://img.shields.io/badge/-shreya--gupta-294E68?style=for-the-badge&logo=linkedin&logoColor=EAF4F8"
+    src="https://img.shields.io/badge/-shreya--gupta-294E68?style=flat-square&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 &nbsp;
 <a href="mailto:shreya.gupta.osr@gmail.com">
   <img
-    src="https://img.shields.io/badge/-shreya.gupta.osr-35636B?style=for-the-badge&logo=gmail&logoColor=EAF4F8"
+    src="https://img.shields.io/badge/-shreya.gupta.osr-35636B?style=flat-square&logo=gmail&logoColor=white"
     alt="Email"
   />
 </a>
@@ -43,10 +45,10 @@
   alt="Academic"
 />
 
-### Third-year B.Tech ECE-AI Student
+<br/>
 
-**Indira Gandhi Delhi Technical University for Women**  
-📍 New Delhi, India
+<strong>Third-year B.Tech ECE-AI Student</strong><br/>
+IGDTUW · New Delhi, India
 
 </td>
 
@@ -57,10 +59,10 @@
   alt="Core Domains"
 />
 
-### Areas I Work Around
+<br/>
 
-`Backend Development` `Software Engineering`  
-`AI / LLM Applications` `API & Data Systems`
+<strong>Backend Development</strong> · Software Engineering<br/>
+AI/LLM Applications · APIs & Data Systems
 
 </td>
 
@@ -71,16 +73,14 @@
 <td width="50%" valign="top">
 
 <img
-  src="https://img.shields.io/badge/CURRENTLY_STRENGTHENING-35636B?style=flat-square&logo=target&logoColor=white"
-  alt="Currently Strengthening"
+  src="https://img.shields.io/badge/CURRENT_FOCUS-35636B?style=flat-square&logo=target&logoColor=white"
+  alt="Current Focus"
 />
 
-### Current Focus
+<br/>
 
-- **Data Structures & Algorithms**
-- **Backend Development**
-- **API Design & Integration**
-- **System Design Fundamentals**
+<strong>DSA</strong> · Backend Development<br/>
+API Design & Integration · System Design
 
 </td>
 
@@ -91,13 +91,10 @@
   alt="How I Build"
 />
 
-### My Engineering Approach
+<br/>
 
-- Understand the complete workflow
-- Design clean API and data layers
-- Automate repetitive processes
-- Add AI where it creates value
-- Measure, improve, and ship
+Understand → Design → Automate<br/>
+Add value → Measure → Improve → Ship
 
 </td>
 
@@ -107,7 +104,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=21&duration=2700&pause=1000&color=83AEC2&center=true&vCenter=true&width=950&height=38&lines=Turning+complex+workflows+into+clean+and+reliable+APIs.;Building+backend+systems+that+solve+practical+problems.;Connecting+data%2C+automation%2C+and+applied+intelligence.;Learning+deeply%2C+building+thoughtfully%2C+and+improving+continuously."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=20&duration=2700&pause=1000&color=83AEC2&center=true&vCenter=true&width=900&height=34&lines=Turning+complex+workflows+into+clean+and+reliable+APIs.;Building+backend+systems+that+solve+practical+problems.;Connecting+data%2C+automation%2C+and+applied+intelligence.;Learning+deeply%2C+building+thoughtfully%2C+and+improving+continuously."
   alt="Animated introduction"
 />
 
