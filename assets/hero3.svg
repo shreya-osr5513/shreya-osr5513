@@ -226,7 +226,7 @@
       attributeName="opacity"
       values="1;1;0;0;0;1"
       keyTimes="0;.27;.33;.92;.97;1"
-      dur="15s"
+      dur="5s"
       repeatCount="indefinite"
     />
   </text>
@@ -243,7 +243,7 @@
       attributeName="opacity"
       values="0;0;1;1;0;0"
       keyTimes="0;.30;.35;.60;.65;1"
-      dur="15s"
+      dur="5s"
       repeatCount="indefinite"
     />
   </text>
@@ -260,7 +260,7 @@
       attributeName="opacity"
       values="0;0;1;1;0;0"
       keyTimes="0;.62;.67;.92;.97;1"
-      dur="15s"
+      dur="5s"
       repeatCount="indefinite"
     />
   </text>
