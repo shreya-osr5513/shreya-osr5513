@@ -2,11 +2,9 @@
 
 <img
   src="./assets/hero.svg"
-  width="100%"
+  width="94%"
   alt="Shreya Gupta — Third-year B.Tech ECE-AI Student at IGDTUW"
 />
-
-<br/><br/>
 
 <a href="https://github.com/shreya-osr5513">
   <img
@@ -31,8 +29,6 @@
 
 </div>
 
-<br/>
-
 ---
 
 ## `01 // PROFILE SNAPSHOT`
@@ -42,58 +38,29 @@
 
 <td width="50%" valign="top">
 
-<br/>
-
 <img
-  src="https://img.shields.io/badge/ACADEMIC-294E68?style=for-the-badge&logo=academia&logoColor=white"
+  src="https://img.shields.io/badge/ACADEMIC-294E68?style=flat-square&logo=academia&logoColor=white"
   alt="Academic"
 />
 
-<br/><br/>
+### Third-year B.Tech ECE-AI Student
 
-**Third-year B.Tech ECE-AI Student**  
-Indira Gandhi Delhi Technical University for Women
-
-<br/><br/>
-
-<img
-  src="https://img.shields.io/badge/New_Delhi,_India-1A2733?style=flat-square&logo=googlemaps&logoColor=white"
-  alt="New Delhi, India"
-/>
-
-<br/>
+**Indira Gandhi Delhi Technical University for Women**  
+📍 New Delhi, India
 
 </td>
 
 <td width="50%" valign="top">
 
-<br/>
-
 <img
-  src="https://img.shields.io/badge/CORE_DOMAINS-3A566F?style=for-the-badge&logo=buffer&logoColor=white"
+  src="https://img.shields.io/badge/CORE_DOMAINS-3A566F?style=flat-square&logo=buffer&logoColor=white"
   alt="Core Domains"
 />
 
-<br/><br/>
+### Areas I Work Around
 
-<img
-  src="https://img.shields.io/badge/Backend_Development-234B5C?style=flat-square&logoColor=white"
-  alt="Backend Development"
-/>
-<img
-  src="https://img.shields.io/badge/Software_Engineering-2E5C68?style=flat-square&logoColor=white"
-  alt="Software Engineering"
-/>
-<img
-  src="https://img.shields.io/badge/AI_%2F_LLM_Applications-465D73?style=flat-square&logoColor=white"
-  alt="AI and LLM Applications"
-/>
-<img
-  src="https://img.shields.io/badge/APIs,_Automation_%26_Data_Systems-344E5E?style=flat-square&logoColor=white"
-  alt="APIs, Automation and Data Systems"
-/>
-
-<br/>
+`Backend Development` `Software Engineering`  
+`AI / LLM Applications` `API & Data Systems`
 
 </td>
 
@@ -103,60 +70,48 @@ Indira Gandhi Delhi Technical University for Women
 
 <td width="50%" valign="top">
 
-<br/>
-
 <img
-  src="https://img.shields.io/badge/CURRENTLY_STRENGTHENING-35636B?style=for-the-badge&logo=target&logoColor=white"
+  src="https://img.shields.io/badge/CURRENTLY_STRENGTHENING-35636B?style=flat-square&logo=target&logoColor=white"
   alt="Currently Strengthening"
 />
 
-<br/>
+### Current Focus
 
-- Data Structures & Algorithms
-- Backend Development
-- API Design & Integration
-- System Design Fundamentals
-
-<br/>
+- **Data Structures & Algorithms**
+- **Backend Development**
+- **API Design & Integration**
+- **System Design Fundamentals**
 
 </td>
 
 <td width="50%" valign="top">
 
-<br/>
-
 <img
-  src="https://img.shields.io/badge/HOW_I_LIKE_TO_BUILD-38566D?style=for-the-badge&logo=blueprint&logoColor=white"
-  alt="How I Like to Build"
+  src="https://img.shields.io/badge/HOW_I_BUILD-38566D?style=flat-square&logo=blueprint&logoColor=white"
+  alt="How I Build"
 />
 
-<br/>
+### My Engineering Approach
 
 - Understand the complete workflow
 - Design clean API and data layers
 - Automate repetitive processes
-- Add AI only where it creates value
+- Add AI where it creates value
 - Measure, improve, and ship
-
-<br/>
 
 </td>
 
 </tr>
 </table>
 
-<br/>
-
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2700&pause=1000&color=83AEC2&center=true&vCenter=true&width=950&height=55&lines=Turning+complex+workflows+into+clean+and+reliable+APIs.;Building+backend+services+that+solve+practical+problems.;Connecting+data%2C+automation%2C+and+applied+intelligence.;Learning+deeply%2C+building+thoughtfully%2C+and+improving+continuously."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=21&duration=2700&pause=1000&color=83AEC2&center=true&vCenter=true&width=950&height=38&lines=Turning+complex+workflows+into+clean+and+reliable+APIs.;Building+backend+systems+that+solve+practical+problems.;Connecting+data%2C+automation%2C+and+applied+intelligence.;Learning+deeply%2C+building+thoughtfully%2C+and+improving+continuously."
   alt="Animated introduction"
 />
 
 </div>
-
-<br/>
 
 ---
 
