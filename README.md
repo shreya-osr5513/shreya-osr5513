@@ -35,76 +35,29 @@
 
 ## `01 // PROFILE SNAPSHOT`
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<img
-  src="https://img.shields.io/badge/ACADEMIC-294E68?style=flat-square&logo=academia&logoColor=white"
-  alt="Academic"
-/>
-
-<br/>
-
-<strong>Third-year B.Tech ECE-AI Student</strong><br/>
-IGDTUW · New Delhi, India
-
-</td>
-
-<td width="50%" valign="top">
-
-<img
-  src="https://img.shields.io/badge/CORE_DOMAINS-3A566F?style=flat-square&logo=buffer&logoColor=white"
-  alt="Core Domains"
-/>
-
-<br/>
-
-<strong>Backend Development</strong> · Software Engineering<br/>
-AI/LLM Applications · APIs & Data Systems
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<img
-  src="https://img.shields.io/badge/CURRENT_FOCUS-35636B?style=flat-square&logo=target&logoColor=white"
-  alt="Current Focus"
-/>
-
-<br/>
-
-<strong>DSA</strong> · Backend Development<br/>
-API Design & Integration · System Design
-
-</td>
-
-<td width="50%" valign="top">
-
-<img
-  src="https://img.shields.io/badge/HOW_I_BUILD-38566D?style=flat-square&logo=blueprint&logoColor=white"
-  alt="How I Build"
-/>
-
-<br/>
-
-Understand → Design → Automate<br/>
-Add value → Measure → Improve → Ship
-
-</td>
-
-</tr>
-</table>
-
 <div align="center">
 
+### Third-year B.Tech ECE-AI Student at IGDTUW
+
+📍 **New Delhi, India**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Backend_Development-294E68?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Software_Engineering-35566D?style=flat-square&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_%2F_LLM_Applications-416579?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/APIs_%26_Data_Systems-35636B?style=flat-square&logo=databricks&logoColor=white" />
+
+<br/><br/>
+
+**Currently strengthening**
+
+`Data Structures & Algorithms` • `Backend Development` • `API Design` • `System Design`
+
+<br/>
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=20&duration=2700&pause=1000&color=83AEC2&center=true&vCenter=true&width=900&height=34&lines=Turning+complex+workflows+into+clean+and+reliable+APIs.;Building+backend+systems+that+solve+practical+problems.;Connecting+data%2C+automation%2C+and+applied+intelligence.;Learning+deeply%2C+building+thoughtfully%2C+and+improving+continuously."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2700&pause=950&color=83AEC2&center=true&vCenter=true&width=900&height=36&lines=Turning+complex+workflows+into+clean+and+reliable+APIs.;Building+backend+systems+that+solve+practical+problems.;Connecting+data%2C+automation%2C+and+applied+intelligence.;Learning+deeply%2C+building+thoughtfully%2C+and+improving+continuously."
   alt="Animated introduction"
 />
 
