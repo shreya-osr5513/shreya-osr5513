@@ -2,7 +2,7 @@
 
 <img
   src="./assets/hero.svg"
-  width="90%"
+  width="100%"
   alt="Shreya Gupta — Third-year B.Tech ECE-AI Student at IGDTUW"
 />
 
@@ -10,24 +10,34 @@
 
 <a href="https://github.com/shreya-osr5513">
   <img
-    src="https://img.shields.io/badge/-shreya--osr5513-171D25?style=flat-square&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/-shreya--osr5513-171D25?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
   />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/shreya-gupta-7b6b96250">
   <img
-    src="https://img.shields.io/badge/-shreya--gupta-294E68?style=flat-square&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/-shreya--gupta-294E68?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 &nbsp;
 <a href="mailto:shreya.gupta.osr@gmail.com">
   <img
-    src="https://img.shields.io/badge/-shreya.gupta.osr-35636B?style=flat-square&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/-shreya.gupta.osr-35636B?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
   />
 </a>
+
+<br/><br/>
+
+<a href="#02--experience-log">Experience</a>
+&nbsp;•&nbsp;
+<a href="#03--featured-builds">Projects</a>
+&nbsp;•&nbsp;
+<a href="#05--technology-matrix">Tech Stack</a>
+&nbsp;•&nbsp;
+<a href="#07--github-signals">GitHub Stats</a>
 
 </div>
 
@@ -35,30 +45,65 @@
 
 ## `01 // PROFILE SNAPSHOT`
 
+I enjoy building **backend-heavy applications** where APIs, databases, automation, and applied AI work together to solve practical problems.
+
 <div align="center">
 
-### Third-year B.Tech ECE-AI Student at IGDTUW
+<img
+  src="https://img.shields.io/badge/Backend_Development-294E68?style=flat-square&logo=fastapi&logoColor=white"
+  alt="Backend Development"
+/>
+<img
+  src="https://img.shields.io/badge/Software_Engineering-35566D?style=flat-square&logo=codeforces&logoColor=white"
+  alt="Software Engineering"
+/>
+<img
+  src="https://img.shields.io/badge/AI_%2F_LLM_Applications-416579?style=flat-square&logo=openai&logoColor=white"
+  alt="AI and LLM Applications"
+/>
+<img
+  src="https://img.shields.io/badge/APIs_%26_Data_Systems-35636B?style=flat-square&logo=databricks&logoColor=white"
+  alt="APIs and Data Systems"
+/>
 
-📍 **New Delhi, India**
+</div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Backend_Development-294E68?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Software_Engineering-35566D?style=flat-square&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_%2F_LLM_Applications-416579?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/APIs_%26_Data_Systems-35636B?style=flat-square&logo=databricks&logoColor=white" />
-
-<br/><br/>
-
-**Currently strengthening**
-
-`Data Structures & Algorithms` • `Backend Development` • `API Design` • `System Design`
+<details open>
+<summary><b>What I like building</b></summary>
 
 <br/>
+
+Scalable backend workflows, clean REST APIs, automated systems, intelligent matching pipelines, and AI-powered product features.
+
+</details>
+
+<details>
+<summary><b>What I am currently strengthening</b></summary>
+
+<br/>
+
+`Data Structures & Algorithms` · `Backend Development` · `API Design` · `System Design`
+
+</details>
+
+<details>
+<summary><b>How I approach a problem</b></summary>
+
+<br/>
+
+`Understand the workflow` → `Design the system` → `Build` → `Measure` → `Improve`
+
+</details>
+
+<br/>
+
+<div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2700&pause=950&color=83AEC2&center=true&vCenter=true&width=900&height=36&lines=Turning+complex+workflows+into+clean+and+reliable+APIs.;Building+backend+systems+that+solve+practical+problems.;Connecting+data%2C+automation%2C+and+applied+intelligence.;Learning+deeply%2C+building+thoughtfully%2C+and+improving+continuously."
-  alt="Animated introduction"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=83AEC2&center=true&vCenter=true&width=950&height=42&lines=Designing+APIs+that+keep+complex+workflows+simple.;Building+backend+systems+that+solve+real+problems.;Using+applied+AI+where+it+genuinely+improves+the+product.;Learning+deeply%2C+building+thoughtfully%2C+and+iterating+continuously."
+  alt="Animated profile statement"
 />
 
 </div>
