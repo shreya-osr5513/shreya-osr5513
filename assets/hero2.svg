@@ -207,82 +207,65 @@
 
   <!-- Rotating professional statements -->
 
-  <g
-    font-family="JetBrains Mono, Consolas, monospace"
-    font-size="17"
-    fill="B6CBD4"
+<g
+  font-family="JetBrains Mono, Consolas, monospace"
+  font-size="17"
+  font-weight="500"
+  fill="#B6CBD4"
+>
+
+  <!-- First statement -->
+  <text
+    x="191"
+    y="305"
+    opacity="1"
   >
+    Building reliable backend systems with practical architecture.
 
-    <text x="191" y="305" opacity="0">
+    <animate
+      attributeName="opacity"
+      values="1;1;0;0;0;1"
+      keyTimes="0;.27;.33;.92;.97;1"
+      dur="15s"
+      repeatCount="indefinite"
+    />
+  </text>
 
-      Building reliable backend systems with practical architecture.
+  <!-- Second statement -->
+  <text
+    x="191"
+    y="305"
+    opacity="0"
+  >
+    Connecting APIs, automation, data, and applied intelligence.
 
-      <animate
-        attributeName="opacity"
-        values="0;1;1;0;0"
-        keyTimes="0;.08;.23;.31;1"
-        dur="14s"
-        repeatCount="indefinite"
-      />
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1;0;0"
+      keyTimes="0;.30;.35;.60;.65;1"
+      dur="15s"
+      repeatCount="indefinite"
+    />
+  </text>
 
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        values="-30 0;0 0;0 0;25 0;25 0"
-        keyTimes="0;.08;.23;.31;1"
-        dur="14s"
-        repeatCount="indefinite"
-      />
+  <!-- Third statement -->
+  <text
+    x="191"
+    y="305"
+    opacity="0"
+  >
+    Learning deeply, building thoughtfully, and improving continuously.
 
-    </text>
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1;0;0"
+      keyTimes="0;.62;.67;.92;.97;1"
+      dur="15s"
+      repeatCount="indefinite"
+    />
+  </text>
 
-    <text x="191" y="305" opacity="0">
-
-      Connecting APIs, automation, data, and applied intelligence.
-
-      <animate
-        attributeName="opacity"
-        values="0;0;1;1;0;0"
-        keyTimes="0;.31;.39;.54;.62;1"
-        dur="14s"
-        repeatCount="indefinite"
-      />
-
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        values="0 18;0 18;0 0;0 0;0 -18;0 -18"
-        keyTimes="0;.31;.39;.54;.62;1"
-        dur="14s"
-        repeatCount="indefinite"
-      />
-
-    </text>
-
-    <text x="191" y="305" opacity="0">
-
-      Learning deeply, building thoughtfully, and improving continuously.
-
-      <animate
-        attributeName="opacity"
-        values="0;0;1;1;0;0"
-        keyTimes="0;.62;.70;.86;.94;1"
-        dur="14s"
-        repeatCount="indefinite"
-      />
-
-      <animateTransform
-        attributeName="transform"
-        type="scale"
-        values=".97 1;.97 1;1 1;1 1;1.03 1;1.03 1"
-        keyTimes="0;.62;.70;.86;.94;1"
-        dur="14s"
-        repeatCount="indefinite"
-      />
-
-    </text>
-
-  </g>
+</g>
 
   <!-- Right-side SG mark -->
 
