@@ -446,20 +446,6 @@ Contributed a Dockerized data-aggregation pipeline to the **Harbor Framework**, 
 <div align="center">
 
 <img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=shreya-osr5513&show_icons=true&hide_border=true&bg_color=08111F&title_color=82AFC2&icon_color=8EC3B2&text_color=EAF7FF"
-  alt="Shreya Gupta GitHub statistics"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-osr5513&layout=compact&hide_border=true&bg_color=08111F&title_color=82AFC2&text_color=EAF7FF"
-  alt="Most used languages"
-/>
-
-<br/>
-
-<img
   width="80%"
   src="https://streak-stats.demolab.com?user=shreya-osr5513&hide_border=true&background=08111F&ring=82AFC2&fire=8EC3B2&currStreakLabel=82AFC2&sideLabels=EAF7FF&dates=8CA3B7&currStreakNum=EAF7FF&sideNums=EAF7FF"
   alt="GitHub contribution streak"
