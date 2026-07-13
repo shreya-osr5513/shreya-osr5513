@@ -6,26 +6,15 @@
   alt="Shreya Gupta — Third-year B.Tech ECE-AI Student at IGDTUW"
 />
 
-<a href="https://github.com/shreya-osr5513">
-  <img
-    src="https://img.shields.io/badge/-shreya--osr5513-171D25?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
+<div align="center">
+
+<a href="https://github.com/shreya-osr5513"><img src="https://img.shields.io/badge/shreya--osr5513-171D25?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/shreya-gupta-7b6b96250">
-  <img
-    src="https://img.shields.io/badge/-shreya--gupta-315A76?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
+<a href="https://www.linkedin.com/in/shreya-gupta-7b6b96250"><img src="https://img.shields.io/badge/shreya--gupta-315A76?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTAwLjI4IDQ0OEg3LjRWMTQ4LjloOTIuODh6bS00Ni40OS0zNDAuN0MxNC4wOSAxMDcuMyAwIDgzLjUgMCA1My42QTUzLjYgNTMuNiAwIDAgMSAxMDcuMiA1My42YzAgMjkuOS0xNC4xIDUzLjctNTMuNCA1My43ek00NDcuOSA0NDhoLTkyLjY4VjMwMi40YzAtMzQuNy0uNy03OS4yLTQ4LjI5LTc5LjItNDguMjkgMC01NS42OSAzNy43LTU1LjY5IDc2LjdWNDQ4aC05Mi43OFYxNDguOWg4OS4wOHY0MC44aDEuM2MxMi40LTIzLjUgNDIuNjktNDguMyA4Ny44OC00OC4zIDk0IDAgMTExLjI4IDYxLjkgMTExLjI4IDE0Mi4zVjQ0OHoiLz48L3N2Zz4=" alt="LinkedIn"></a>
 &nbsp;
-<a href="mailto:shreya.gupta.osr@gmail.com">
-  <img
-    src="https://img.shields.io/badge/-shreya.gupta.osr-76594F?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
+<a href="mailto:shreya.gupta.osr@gmail.com"><img src="https://img.shields.io/badge/shreya.gupta.osr-76594F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+</div>
 
 <br/><br/>
 
@@ -187,287 +176,278 @@ Scalable backend workflows, clean REST APIs, automated systems, intelligent matc
 **Impact:** Automated the tracking of **100+ job listings** and improved repeated data-collection and matching workflows through asynchronous processing.
 
 ---
-
 ## `03 // FEATURED BUILDS`
 
-<details open>
-
-<summary>
-  <img
-    src="https://img.shields.io/badge/SYSTEM_01-ResumeIQ-315A76?style=for-the-badge&logo=probot&logoColor=white"
-    alt="ResumeIQ"
-  />
-</summary>
-
-<br/>
+### ResumeIQ
 
 <div align="center">
 
+<img
+  src="./assets/resumeiq.svg"
+  width="92%"
+  alt="ResumeIQ — AI-Powered Hiring Intelligence Platform"
+/>
+
+</div>
+
+#### AI-Powered Hiring Intelligence Platform
+
+A full-stack hiring platform for resume screening, candidate discovery, semantic matching, AI-generated interviews, recruiter analytics, and privacy-aware candidate evaluation.
+
+**Engineering highlights**
+
+- Built semantic candidate matching using **Sentence Transformers and FAISS**
+- Processes **50+ comparisons per query** with sub-500 ms matching latency
+- Developed **12+ REST APIs** for candidate search, comparison, analytics, and recommendations
+- Generates **15–20 personalized technical interview questions** per session
+- Removes identity-related fields before candidate evaluation
+
+### Technologies Used
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/React-202B36?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-202B36?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-202B36?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/MongoDB-202B36?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Python-202B36?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+<img src="https://img.shields.io/badge/FAISS-202B36?style=flat-square&logoColor=white" alt="FAISS" />
+<img src="https://img.shields.io/badge/Sentence_Transformers-202B36?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Sentence Transformers" />
+<img src="https://img.shields.io/badge/Groq_LLaMA--3-202B36?style=flat-square&logoColor=white" alt="Groq LLaMA-3" />
+
+</div>
+
+<br/>
+
 <a href="#">
   <img
-    src="./assets/resumeiq.svg"
-    width="96%"
-    alt="ResumeIQ project visual"
+    src="https://img.shields.io/badge/View_Repository-171D25?style=for-the-badge&logo=github&logoColor=white"
+    alt="ResumeIQ repository"
   />
-</a>
-
-</div>
-
-### AI-Powered Hiring Intelligence Platform
-
-A full-stack hiring platform featuring resume screening, candidate search, semantic matching, AI-generated interviews, recruiter dashboards, and privacy-aware evaluation.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/50%2B-Comparisons_Per_Query-315A76?style=flat-square" />
-<img src="https://img.shields.io/badge/%3C500ms-Matching_Latency-3E6970?style=flat-square" />
-<img src="https://img.shields.io/badge/12%2B-REST_APIs-625F82?style=flat-square" />
-<img src="https://img.shields.io/badge/15–20-AI_Questions-6E6253?style=flat-square" />
-
-</div>
-
-<br/>
-
-**Tech:**  
-`React 19` · `Node.js` · `Express.js` · `MongoDB Atlas` · `Python` · `FAISS` · `Sentence Transformers` · `Groq LLaMA-3`
-
-<br/>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-171D25?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="#">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-3E6970?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</details>
-
-<br/>
-
-<details>
-
-<summary>
   <img
-    src="https://img.shields.io/badge/SYSTEM_02-HireEngine-3E6970?style=for-the-badge&logo=fastapi&logoColor=white"
-    alt="HireEngine"
-  />
-</summary>
-
-<br/>
-
-<div align="center">
-
-<a href="#">
-  <img
-    src="./assets/hireengine.svg"
-    width="96%"
-    alt="HireEngine project visual"
+    src="https://img.shields.io/badge/Live_Demo-315A76?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="ResumeIQ live demo"
   />
 </a>
 
-</div>
+---
 
-### Scalable Job Aggregation & Alert Backend
-
-A backend platform that scrapes, stores, filters, and delivers relevant job opportunities through scheduler automation and event-driven alerts.
+### HireEngine
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/60%2B-Skills_Matched-3E6970?style=flat-square" />
-<img src="https://img.shields.io/badge/Hourly-Scheduler-315A76?style=flat-square" />
-<img src="https://img.shields.io/badge/REST_%2B_GraphQL-625F82?style=flat-square" />
-<img src="https://img.shields.io/badge/Event_Driven-Alerts-6E6253?style=flat-square" />
+<img
+  src="./assets/hireengine.svg"
+  width="92%"
+  alt="HireEngine — Scalable Job Aggregation and Alert Backend"
+/>
 
 </div>
 
-<br/>
+#### Scalable Job Aggregation & Alert Backend
 
-**Tech:**  
-`FastAPI` · `Python` · `SQLite` · `SQLAlchemy` · `APScheduler` · `BeautifulSoup` · `GraphQL` · `SMTP`
+A backend platform that collects, stores, filters, and delivers relevant job opportunities through scheduled automation and skill-based matching.
+
+**Engineering highlights**
+
+- Built a skill-matching engine supporting **60+ skills**
+- Designed both **REST API and GraphQL interfaces**
+- Automated job collection through an **hourly scheduler**
+- Implemented event-driven job alerts to reduce irrelevant notifications
+- Structured job data using SQLAlchemy and SQLite
+
+### Technologies Used
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/FastAPI-202B36?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Python-202B36?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+<img src="https://img.shields.io/badge/SQLite-202B36?style=flat-square&logo=sqlite&logoColor=74C0FC" alt="SQLite" />
+<img src="https://img.shields.io/badge/SQLAlchemy-202B36?style=flat-square&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy" />
+<img src="https://img.shields.io/badge/GraphQL-202B36?style=flat-square&logo=graphql&logoColor=E10098" alt="GraphQL" />
+<img src="https://img.shields.io/badge/BeautifulSoup-202B36?style=flat-square&logo=python&logoColor=8AB4F8" alt="BeautifulSoup" />
+<img src="https://img.shields.io/badge/APScheduler-202B36?style=flat-square&logo=clockify&logoColor=03A9F4" alt="APScheduler" />
+<img src="https://img.shields.io/badge/SMTP-202B36?style=flat-square&logo=gmail&logoColor=EA4335" alt="SMTP" />
+
+</div>
 
 <br/>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-171D25?style=for-the-badge&logo=github&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/View_Repository-171D25?style=for-the-badge&logo=github&logoColor=white"
+    alt="HireEngine repository"
+  />
 </a>
 &nbsp;
 <a href="#">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-3E6970?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</details>
-
-<br/>
-
-<details>
-
-<summary>
   <img
-    src="https://img.shields.io/badge/SYSTEM_03-InsightFlow-625F82?style=for-the-badge&logo=streamlit&logoColor=white"
-    alt="InsightFlow"
-  />
-</summary>
-
-<br/>
-
-<div align="center">
-
-<a href="#">
-  <img
-    src="./assets/insightflow.svg"
-    width="96%"
-    alt="InsightFlow project visual"
+    src="https://img.shields.io/badge/Live_Demo-315A76?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="HireEngine live demo"
   />
 </a>
 
-</div>
+---
 
-### AI-Driven Business Intelligence Dashboard
-
-An analytics dashboard for tracking revenue, growth, category performance, product trends, and context-aware AI recommendations.
+### InsightFlow
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/KPI-Revenue_%26_Growth-315A76?style=flat-square" />
-<img src="https://img.shields.io/badge/Data-Cleaning_%26_Aggregation-3E6970?style=flat-square" />
-<img src="https://img.shields.io/badge/AI-Context_Aware_Insights-625F82?style=flat-square" />
-<img src="https://img.shields.io/badge/Interactive-Dashboards-6E6253?style=flat-square" />
+<img
+  src="./assets/insightflow.svg"
+  width="92%"
+  alt="InsightFlow — AI-Driven Business Intelligence Dashboard"
+/>
 
 </div>
 
-<br/>
+#### AI-Driven Business Intelligence Dashboard
 
-**Tech:**  
-`Python` · `Streamlit` · `Pandas` · `Plotly` · `OpenAI API`
+An interactive analytics dashboard for monitoring revenue, business growth, category performance, product trends, and AI-generated recommendations.
+
+**Engineering highlights**
+
+- Built interactive dashboards for tracking important business KPIs
+- Created data-cleaning, filtering, and aggregation workflows using Pandas
+- Visualized revenue, category, and product performance using Plotly
+- Added a context-aware AI recommendation layer based on dashboard metrics
+
+### Technologies Used
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Python-202B36?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+<img src="https://img.shields.io/badge/Streamlit-202B36?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Pandas-202B36?style=flat-square&logo=pandas&logoColor=E70488" alt="Pandas" />
+<img src="https://img.shields.io/badge/Plotly-202B36?style=flat-square&logo=plotly&logoColor=7A76FF" alt="Plotly" />
+<img src="https://img.shields.io/badge/OpenAI_API-202B36?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+
+</div>
 
 <br/>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-171D25?style=for-the-badge&logo=github&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/View_Repository-171D25?style=for-the-badge&logo=github&logoColor=white"
+    alt="InsightFlow repository"
+  />
 </a>
 &nbsp;
 <a href="#">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-3E6970?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Live_Demo-315A76?style=for-the-badge&logo=streamlit&logoColor=white"
+    alt="InsightFlow live demo"
+  />
 </a>
 
-</details>
-
-<!-- Replace every href="#" above with the correct repository or live-demo URL -->
+<!-- Replace every href="#" with the actual repository or live-demo URL. -->
 
 ---
 
 ## `04 // OPEN SOURCE`
 
-<details open>
+### Harbor Framework — PR #1140
 
-<summary>
-  <img
-    src="https://img.shields.io/badge/MERGED_CONTRIBUTION-Harbor_PR_%231140-3E6970?style=for-the-badge&logo=github&logoColor=white"
-    alt="Harbor Framework contribution"
-  />
-</summary>
+Contributed a Dockerized data-aggregation pipeline to the **Harbor Framework**, processing **9,994 rows** of Kaggle Superstore data.
 
-<br/>
+- Built a reproducible data-processing workflow
+- Packaged the pipeline using Docker
+- Submitted contribution through **PR #1140**
+- Contribution was reviewed and merged into production
 
-### Dockerized Data-Aggregation Pipeline
+### Technologies Used
 
-Contributed a production-ready data workflow to the **Harbor Framework**, processing **9,994 rows** of Kaggle Superstore data.
+<div align="left">
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/PR_%231140-Merged-3E6970?style=flat-square&logo=github" />
-<img src="https://img.shields.io/badge/9,994-Rows_Processed-315A76?style=flat-square" />
-<img src="https://img.shields.io/badge/Dockerized-Pipeline-625F82?style=flat-square&logo=docker" />
-<img src="https://img.shields.io/badge/Status-Production-6E6253?style=flat-square" />
+<img src="https://img.shields.io/badge/Docker-202B36?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Python-202B36?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+<img src="https://img.shields.io/badge/Data_Pipeline-202B36?style=flat-square&logo=apacheairflow&logoColor=017CEE" alt="Data Pipeline" />
+<img src="https://img.shields.io/badge/GitHub_PR-202B36?style=flat-square&logo=github&logoColor=white" alt="GitHub pull request" />
 
 </div>
 
 <br/>
 
-`Docker` · `Data Aggregation` · `Reproducible Pipelines` · `Open Source`
-
-</details>
+<a href="#">
+  <img
+    src="https://img.shields.io/badge/View_Merged_PR-171D25?style=for-the-badge&logo=github&logoColor=white"
+    alt="View merged pull request"
+  />
+</a>
 
 ---
 
 ## `05 // TECHNOLOGY MATRIX`
 
-<div align="center">
+### Languages
 
-<strong>LANGUAGES</strong>
+<div align="left">
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=cpp,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python&theme=dark" alt="C++ and Python" />
 &nbsp;
-<img src="https://img.shields.io/badge/SQL-315A76?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-202B36?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
-<br/><br/>
+</div>
 
-<strong>BACKEND & APIs</strong>
+### Backend & APIs
 
-<br/><br/>
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" alt="FastAPI, Node.js and Express.js" />
 &nbsp;
-<img src="https://img.shields.io/badge/REST_APIs-3E6970?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GraphQL-625F82?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-202B36?style=for-the-badge&logo=swagger&logoColor=85EA2D" alt="REST APIs" />
+<img src="https://img.shields.io/badge/GraphQL-202B36?style=for-the-badge&logo=graphql&logoColor=E10098" alt="GraphQL" />
 
-<br/><br/>
+</div>
 
-<strong>DATABASES</strong>
+### Databases
 
-<br/><br/>
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" alt="MongoDB, MySQL and SQLite" />
 
-<br/><br/>
+</div>
 
-<strong>AI ENGINEERING</strong>
+### AI Engineering
 
-<br/><br/>
+<div align="left">
 
-<img src="https://img.shields.io/badge/LLM_Integration-315A76?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Embeddings-3E6970?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FAISS-625F82?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Sentence_Transformers-6E6253?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM_Integration-202B36?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Integration" />
+<img src="https://img.shields.io/badge/Embeddings-202B36?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Embeddings" />
+<img src="https://img.shields.io/badge/FAISS-202B36?style=for-the-badge&logoColor=white" alt="FAISS" />
+<img src="https://img.shields.io/badge/Sentence_Transformers-202B36?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Sentence Transformers" />
 
-<br/><br/>
+</div>
 
-<strong>TOOLS</strong>
+### Tools
 
-<br/><br/>
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" alt="Git, GitHub, Docker and VS Code" />
 
 </div>
 
 ---
 
-## `06 // HOW I BUILD`
+## `06 // ENGINEERING PROCESS`
 
-<div align="center">
+> **01 — Understand**  
+> Study the workflow, requirements, constraints, and expected outcome.
 
-<img src="https://img.shields.io/badge/01-UNDERSTAND-315A76?style=for-the-badge" />
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/02-DESIGN-3E6970?style=for-the-badge" />
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/03-BUILD-625F82?style=for-the-badge" />
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/04-MEASURE-6E6253?style=for-the-badge" />
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/05-IMPROVE-315A76?style=for-the-badge" />
+> **02 — Design**  
+> Plan the data model, API layer, components, and system boundaries.
 
-</div>
+> **03 — Build**  
+> Implement the smallest reliable version of the system.
 
-<br/>
+> **04 — Measure**  
+> Observe performance, failures, user experience, and output quality.
 
-<div align="center">
-
-> Understand the workflow before designing the system. Add intelligence only where it creates measurable value.
-
-</div>
+> **05 — Improve**  
+> Refine the architecture, remove bottlenecks, and ship better iterations.
 
 ---
 
@@ -478,7 +458,7 @@ Contributed a production-ready data workflow to the **Harbor Framework**, proces
 <img
   height="180"
   src="https://github-readme-stats.vercel.app/api?username=shreya-osr5513&show_icons=true&hide_border=true&bg_color=08111F&title_color=82AFC2&icon_color=8EC3B2&text_color=EAF7FF"
-  alt="GitHub statistics"
+  alt="Shreya Gupta GitHub statistics"
 />
 
 <img
